@@ -126,12 +126,12 @@
     padding:30px;
   }
   .section2 .right{
-    height: 250px;
+    height: 200px;
     width: auto;
     padding: 30px;
   }
   #about{
-    padding-left: 25px;
+  
     width: 100%;
     font-size: 35px;
   }
@@ -149,8 +149,25 @@
       width: auto;
         overflow-x: hidden;
         font-size: 35px;
-        padding-left: 20px;
+       
   }
+ #html,
+#css,
+#java,
+#c,
+#python{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: auto;
+    border-radius: 10px;
+    background-color: #ff9f1c;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
   .section4{
     margin-left: 20px;
     width:auto;
@@ -199,8 +216,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 67px;
-        width: 75px;
+        height: 65px;
+        width: 65px;
         font-size: 52px;
         border-radius: 14px;
         background-color: #dee2e6;
