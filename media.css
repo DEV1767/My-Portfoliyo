@@ -237,6 +237,16 @@
       width: auto;
        overflow-x: hidden;
     }
+
+    .section4 .project{
+  display: grid;
+  grid-template-columns:repeat(2,1fr);
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
+  margin-top: 10px;
+  }
+
   
   #con{
         font-size: 35px;
