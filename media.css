@@ -219,6 +219,20 @@
      border: none;
     outline: none;
     box-shadow: none;}
+   #quote{
+    height: 80px;
+    width: auto;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ff9f1c;
+    color: black;
+    border-radius: 20px;
+    cursor: pointer;
+     border: none;
+    outline: none;
+    box-shadow: none;}
+
   .section5{
       width: auto;
        overflow-x: hidden;
