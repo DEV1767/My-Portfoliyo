@@ -253,6 +253,9 @@ display: none;
     color: black;
     border-radius: 20px;
     cursor: pointer;
+     border:none;
+    outline:none;
+    box-shadow:none
 }
 #netflix{
     height: 80px;
@@ -264,8 +267,11 @@ display: none;
     color: black;
     border-radius: 20px;
     cursor: pointer;
+     border:none;
+    outline:none;
+    box-shadow:none
 }
-#Quote{
+#quote{
   height: 80px;
     width: auto;
     padding: 10px;
@@ -275,6 +281,9 @@ display: none;
     color: black;
     border-radius: 20px;
     cursor: pointer;
+    border:none;
+    outline:none;
+    box-shadow:none;
 }
                                                         /*SECTION 6*/
 .section6{
