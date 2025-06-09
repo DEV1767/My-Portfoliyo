@@ -193,7 +193,7 @@
     margin-top: 10px;
   }
   #netflix{
-    height: 80px;
+    height: auto;
     width: auto;
     padding: 10px;
     font-size: 20px;
@@ -207,7 +207,7 @@
     box-shadow: none;
 }
 #rock{
-    height: 80px;
+    height: auto;
     width: auto;
     padding: 10px;
     font-size: 20px;
@@ -220,7 +220,7 @@
     outline: none;
     box-shadow: none;}
    #quote{
-    height: 80px;
+    height: auto;
     width: auto;
     padding: 10px;
     font-size: 20px;
