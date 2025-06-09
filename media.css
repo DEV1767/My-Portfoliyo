@@ -207,7 +207,7 @@
     box-shadow: none;
 }
 #rock{
-    height: 60px;
+    height:auto;
     width: auto;
     padding: 10px;
     font-size: 20px;
@@ -220,7 +220,7 @@
     outline: none;
     box-shadow: none;}
    #quote{
-    height: 60px;
+    height:auto;
     width: auto;
     padding: 10px;
     font-size: 20px;
@@ -237,23 +237,10 @@
       width: auto;
        overflow-x: hidden;
     }
-   .section4 .project{
+  .project{
   display: grid;
-  grid-template-columns:repeat(2,1fr);
-  height: 60px;
-  width: auto;
-  overflow-x: hidden;
   margin-top: 10px;
-  }
-
-
-    .section4 .project{
-  display: grid;
-  grid-template-columns:repeat(2,1fr);
-  height: auto;
-  width: auto;
-  overflow-x: hidden;
-  margin-top: 10px;
+   gap:30px;
   }
 
   
