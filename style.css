@@ -265,6 +265,17 @@ display: none;
     border-radius: 20px;
     cursor: pointer;
 }
+#Quote{
+  height: 80px;
+    width: auto;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ff9f1c;
+    color: black;
+    border-radius: 20px;
+    cursor: pointer;
+}
                                                         /*SECTION 6*/
 .section6{
     height: 300px;
