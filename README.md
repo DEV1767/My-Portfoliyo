@@ -1,2 +1,2 @@
 # My-portfoliyo
-THIS IS MY OWN PORTFOLIYO I MADE WITH HTML,CSS and JAVASCRIPY.THIS WEBSITE IS COMPLETE RESPONSIVE.
+This is my personal portfolio website i created useing basic HTML ,CSS and JAVASCRIPT. 
